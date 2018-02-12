@@ -1,18 +1,15 @@
 # aiPython
 ------
-
 ## Env
 ------
-source activate ai
-cd $ai
-
-
+source activate ai  
+cd $ai  
 
 ## Things to look at
 ------
 
-NumPy
-Matplotlib
+NumPy  
+Matplotlib  
 
 ### Books
     On Intelligence
@@ -25,10 +22,12 @@ Matplotlib
     https://www.youtube.com/user/keeroyz/videos
     
     
-https://github.com/owainlewis/awesome-artificial-intelligence
-https://hackernoon.com/deep-learning-resources-e32bd081e84d
-https://cims.nyu.edu/webapps/content/systems/resources/computeservers
+### Other Links
+    https://github.com/owainlewis/awesome-artificial-intelligence
+    https://hackernoon.com/deep-learning-resources-e32bd081e84d
+    https://cims.nyu.edu/webapps/content/systems/resources/computeservers
 
-kaggle
-tensorflow
-cuda
+### Other Resources
+    kaggle
+    tensorflow
+    cuda
