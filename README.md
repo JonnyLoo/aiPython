@@ -1,5 +1,3 @@
-# aiPython
-------
 ## Env
 ------
 source activate ai  
